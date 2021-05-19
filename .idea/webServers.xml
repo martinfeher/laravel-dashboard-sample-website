@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="af997bea-73c5-4bff-bee6-8d1aa55a781b" name="u2">
+        <fileTransfer rootFolder="/home/admin12/sites/laravel_test_admin_website_martinfeher_com/" accessType="SFTP" host="u2" port="22" sshConfigId="586db4df-e35f-4166-847a-9c110f6fca7d" sshConfig="u2" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

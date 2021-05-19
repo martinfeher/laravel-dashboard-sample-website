@@ -1,0 +1,99 @@
+
+/* General */
+.main {
+    position: relative;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.sidenav {
+    position: absolute;
+    float: left;
+    width: 200px;
+}
+
+.content {
+    margin-left: 200px; /* Same width as the sidebar + left position in px */
+    padding: 0px 10px;
+}
+
+.h1, .h2, .h3, .h4, body, h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    line-height: 1.5em;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+    padding-top: 13px !important;
+}
+
+table.dataTable tbody tr {
+    cursor: pointer;
+}
+
+.validation-info {
+    color: #707070;
+    font-size: 0.75em;
+}
+
+div.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0.5em 0;
+}
+
+div.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #FFF;
+}
+
+#role {
+    padding: 7px;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s
+}
+
+button.edit-btn-disabled {
+    opacity: 0.29;;
+    cursor: inherit;
+}
+
+.form-control {
+    line-height: 1.1;
+}
+.form_modal_wrapper {
+    padding: 11px 4px 0;
+}
+
+.dataTables_filter input {
+    color: #AAA !important;
+    min-width: 220px;
+    font-size: 0.8em;
+}
+
+.dataTables_filter label {
+    font-size: 0.9em;
+}
+
+/* End General */
+
+/* Top Menu */
+
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #5F5F5F;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #5F5F5F;
+}
+
+.top_menu_name {
+    color: #5F5F5F;
+}
+
+.top_menu_role {
+    font-size: 0.7em;
+    color: #888;
+}
+/* End Top Menu */

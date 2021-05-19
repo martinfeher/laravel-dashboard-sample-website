@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="u2" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="u2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="/node_modules" />
+            <excludedPath local="true" path="node_modules" />
+            <excludedPath path="/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="u2" id="586db4df-e35f-4166-847a-9c110f6fca7d" keyPath="$USER_HOME$/.ssh/gtrading.pem" port="22" customName="u2" nameFormat="CUSTOM" username="admin12">
+        <option name="customName" value="u2" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
