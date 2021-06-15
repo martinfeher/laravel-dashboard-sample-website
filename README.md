@@ -8,7 +8,7 @@
 ### Installation
 - mkdir repository
 - git clone https://github.com/martinfeher/laravel-dashboard-sample-website.git
-- cd repository
+- cd repository 
 - composer install
 - php artisan cache:clear; php artisan config:cache;
 - additional add .env file
