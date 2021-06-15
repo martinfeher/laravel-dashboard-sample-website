@@ -1,4 +1,4 @@
-### laravel admin test stránka
+### laravel admin test website
 - autor: Martin Fehér
 
 ### Požiadavky/Requirements
