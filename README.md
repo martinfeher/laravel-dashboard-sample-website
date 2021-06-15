@@ -1,6 +1,11 @@
 ### laravel admin test website
 - autor: Martin Fehér
 
+Online dashboard:
+url: https://laravel-test-admin-website.development.martinfeher.com/
+username: admin@live.com
+password: sdfsdgfis7gs8dfg
+
 ### Požiadavky/Requirements
 - PHP version/verzia >= 7.2
 - Composer dependency manager. Installation: https://getcomposer.org/download/
