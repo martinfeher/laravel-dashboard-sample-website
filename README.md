@@ -11,7 +11,7 @@
 - cd repository 
 - composer install
 - php artisan cache:clear; php artisan config:cache;
-- additional add .env file 
+- additional add .env file
 
 ### Description
 The website contains a client side area where users can login and manage products and orders.
