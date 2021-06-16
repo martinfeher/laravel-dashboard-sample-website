@@ -1,7 +1,7 @@
 ### laravel admin test website
 - autor: Martin Fehér
 
-Online dashboard:
+Online demo preview:
 - url: https://laravel-test-admin-website.development.martinfeher.com/
 - username: demo@test.com
 - password: demo_access
@@ -14,9 +14,9 @@ Online dashboard:
 - mkdir repository
 - git clone https://github.com/martinfeher/laravel-dashboard-sample-website.git
 - cd repository 
-- composer install
+- create .env file (or you can send a message to request a sample .env file)
+- composer install // install packages
 - php artisan cache:clear; php artisan config:cache;
-- additional add .env file
 
 ### Description
 The website contains a client side area where users can login and manage products and orders.
