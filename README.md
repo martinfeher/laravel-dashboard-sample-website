@@ -3,8 +3,8 @@
 
 Online dashboard:
 - url: https://laravel-test-admin-website.development.martinfeher.com/
-- username: admin@live.com
-- password: sdfsdgfis7gs8dfg
+- username: demo@test.com
+- password: demo_access
 
 ### Požiadavky/Requirements
 - PHP version/verzia >= 7.2
