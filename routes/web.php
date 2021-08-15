@@ -53,6 +53,6 @@ Route::group(['middleware' => ['auth']], function() {
     });
     //  End Users
 
-    Route::get('/odhlasit', '\App\Http\Controllers\Auth\LoginController@logout'); // Logout link
+    Route::get('/logout', '\App\Http\Controllers\Auth\LoginController@logout'); // Logout link
 
 });
