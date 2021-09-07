@@ -15,8 +15,7 @@ Online demo preview:
 - git clone https://github.com/martinfeher/laravel-dashboard-sample-website.git
 - cd repository 
 - create .env file (or you can send a message to request a sample .env file)
-- composer install // install packages
-- php artisan cache:clear; php artisan config:cache;
+- composer install // install packages 
 
 ### Description
 The website contains a client side area where users can login and manage products and orders.
