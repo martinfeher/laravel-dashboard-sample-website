@@ -1,10 +1,10 @@
-### laravel admin test website
+### laravel dashboard sample website
 - autor: Martin Fehér
 
 Online demo preview:
-- url: https://laravel-test-admin-website.development.martinfeher.com/
-- username: demo@test.com
-- password: demo_access
+- url: https://laravel-test-dashboard-website.development.martinfeher.com
+- username: admin@demo.com
+- password: demodemo
 
 ### Požiadavky/Requirements
 - PHP version/verzia >= 7.2
