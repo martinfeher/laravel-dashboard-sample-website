@@ -1,11 +1,3 @@
-### laravel dashboard sample website
-- autor: Martin Fehér
-
-Online demo preview:
-- url: https://laravel-test-dashboard-website.development.martinfeher.com
-- username: admin@demo.com
-- password: demodemo
-
 ### Požiadavky/Requirements
 - PHP version/verzia >= 7.2
 - Composer dependency manager. Installation: https://getcomposer.org/download/
