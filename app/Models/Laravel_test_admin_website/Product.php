@@ -10,13 +10,6 @@ class Product extends Model
 {
     use HasFactory, SoftDeletes;
 
-
-    /** @var string  */
-    protected $table = 'products';
-
-    /** @var string  */
-    protected $connection = "laravel_test_admin_website";
-
     /**
      * The attributes that are mass assignable.
      *

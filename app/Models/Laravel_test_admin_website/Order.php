@@ -31,9 +31,6 @@ class Order extends Model
     protected $table = 'orders';
 
     /** @var string  */
-    protected $connection = "laravel_test_admin_website";
-
-    /** @var string  */
     protected $keyType = 'string';
 
     /** @var boolean  */

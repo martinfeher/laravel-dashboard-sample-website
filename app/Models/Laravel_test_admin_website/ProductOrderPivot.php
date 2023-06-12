@@ -14,9 +14,6 @@ class ProductOrderPivot extends Model
     protected $table = 'products_orders_pivot';
 
     /** @var string  */
-    protected $connection = "laravel_test_admin_website";
-
-    /** @var string  */
     public $primaryKey = ['products_id', 'orders_id'];
 
     /** @var bool  */
@@ -31,13 +28,9 @@ class ProductOrderPivot extends Model
         'orders_id',
     ];
 
-
-
     /** @var array  */
     protected $dates = [
         'created_at', 'update_at', 'deleted_at'
     ];
-
-
 
 }
